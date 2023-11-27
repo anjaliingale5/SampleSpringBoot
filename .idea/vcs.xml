@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/API-Calling-Using-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DoctorAppointmentBookingApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Employee-Address-Mapping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Expense_Tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hittcounter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Instagram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MusicStreamingApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recipe_Management_System_API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Restaurant-Managements-Services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RoomApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/University_Event_Management1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/User_Management_System" vcs="Git" />
+  </component>
+</project>
